@@ -42,7 +42,7 @@ public class Test04Test {
 
     @BeforeClass
     public static void setUp() {
-        filePath = "/Users/sglee/Documents/pond.txt";
+        filePath = "./src/main/resources/pond.txt";
         rowSize = 10;
         colSize = 10;
         delimiter = " ";
